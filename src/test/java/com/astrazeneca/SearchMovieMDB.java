@@ -1,10 +1,11 @@
 package com.astrazeneca;
 
 import org.junit.Test;
+
 public class SearchMovieMDB extends MovieMDB {
 
     @Test
-    public void Movie()
+    public void searchMovie()
 
     {
         navegarSitio("https://imdb.com");
